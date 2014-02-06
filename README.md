@@ -1,0 +1,4 @@
+external-giflib
+===============
+
+external-giflib
